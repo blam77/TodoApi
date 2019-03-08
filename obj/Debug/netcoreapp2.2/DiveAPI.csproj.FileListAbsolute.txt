@@ -1,0 +1,14 @@
+/Users/bxl6107/Projects/DiveAPI/bin/Debug/netcoreapp2.2/DiveAPI.deps.json
+/Users/bxl6107/Projects/DiveAPI/bin/Debug/netcoreapp2.2/DiveAPI.runtimeconfig.json
+/Users/bxl6107/Projects/DiveAPI/bin/Debug/netcoreapp2.2/DiveAPI.runtimeconfig.dev.json
+/Users/bxl6107/Projects/DiveAPI/bin/Debug/netcoreapp2.2/DiveAPI.dll
+/Users/bxl6107/Projects/DiveAPI/bin/Debug/netcoreapp2.2/DiveAPI.pdb
+/Users/bxl6107/Projects/DiveAPI/obj/Debug/netcoreapp2.2/DiveAPI.csprojAssemblyReference.cache
+/Users/bxl6107/Projects/DiveAPI/obj/Debug/netcoreapp2.2/DiveAPI.csproj.CoreCompileInputs.cache
+/Users/bxl6107/Projects/DiveAPI/obj/Debug/netcoreapp2.2/DiveAPI.RazorAssemblyInfo.cache
+/Users/bxl6107/Projects/DiveAPI/obj/Debug/netcoreapp2.2/DiveAPI.RazorAssemblyInfo.cs
+/Users/bxl6107/Projects/DiveAPI/obj/Debug/netcoreapp2.2/DiveAPI.AssemblyInfoInputs.cache
+/Users/bxl6107/Projects/DiveAPI/obj/Debug/netcoreapp2.2/DiveAPI.AssemblyInfo.cs
+/Users/bxl6107/Projects/DiveAPI/obj/Debug/netcoreapp2.2/DiveAPI.RazorTargetAssemblyInfo.cache
+/Users/bxl6107/Projects/DiveAPI/obj/Debug/netcoreapp2.2/DiveAPI.dll
+/Users/bxl6107/Projects/DiveAPI/obj/Debug/netcoreapp2.2/DiveAPI.pdb
